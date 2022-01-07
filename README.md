@@ -1,4 +1,7 @@
 # my-first-github-repository
-Here is my first GitHub repository. Let's started with GitHub
+this line was replaced.
 
 This line edited manually during conflict resolution.
+
+
+more changes, now on feature 2!!!!
